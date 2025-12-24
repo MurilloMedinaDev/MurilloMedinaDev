@@ -1,3 +1,7 @@
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58a6ff&width=700&lines=Ol%C3%A1+Mundo!+Eu+sou+o+Murillo+Medina" />
+
+
+
 # Sobre mim
 
 🎓 Estudante de **Ciência da Computação** e desenvolvedor em formação.
